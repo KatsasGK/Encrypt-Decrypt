@@ -1,7 +1,7 @@
 # Encrypt-Decrypt
 A simple script to Encrypt and Decrypt messages.
 
----USAGE:---
+***USAGE:***
 1. Make sure you have the following dependencies installed: cryptography, loguru, and argparse. You can install them by running the command pip install cryptography loguru argparse
 2. Download the script and save it to a location on your computer.
 3. Open a command prompt or terminal and navigate to the location where you saved the script.
